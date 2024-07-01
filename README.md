@@ -1,6 +1,6 @@
-##  README
+## Setting up web3js and the Chainlink Plugin
 
-This file provides a quick introduction to your project. 
+
 
 **What is this project about?**
 
