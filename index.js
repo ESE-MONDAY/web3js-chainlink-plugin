@@ -4,7 +4,7 @@ const {Web3} = require("web3")
 const {ChainlinkPlugin, MainnetPriceFeeds} = require("@chainsafe/web3-plugin-chainlink")
 
 
-// Create a new instance of Web3
+// Create a new instance of Web3js
 const web3 = new Web3(`https://mainnet.infura.io/v3/${process.env.INFURA_API_KEY}`);
 
 // Create a new instance of the ChainlinkPlugin
